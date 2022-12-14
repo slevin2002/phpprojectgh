@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?= date("h:i:s a") ?>
+    <?=
+      echo date("h:i:s a");
+    ?>
 </body>
 </html>
