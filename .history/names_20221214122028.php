@@ -1,5 +1,5 @@
 <?php
-    $names = ['Slevin', 'Joyel', 'Nithish', 'Abhi'];
+    $name = ['Slevin', 'Joyel', 'Nithish'];
 ?>
 <!DOCTYPE html>
 <html lang="en">

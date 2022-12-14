@@ -1,5 +1,5 @@
 <?php
-    $names = ['Slevin', 'Joyel', 'Nithish', 'Abhi'];
+    $names = ['Slevin', 'Joyel', 'Nithish'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,10 +12,9 @@
 <body class="">
     <h1>Names</h1>
     <ul>
-        <?php foreach($names as $name) { ?>
+        <?php foreach($name as $name) { ?>
         
-          <li><?= $name ?></li>
-        <?php } ?>
+          <li}
     </ul>
     
 </body>
