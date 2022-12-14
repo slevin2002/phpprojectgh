@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-   include('header.php');
+   in
 ?>
 <body class="">
     <h1>Names</h1>

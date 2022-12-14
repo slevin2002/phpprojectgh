@@ -4,8 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-   include('header.php');
-?>
+
 <body class="">
     <h1>Names</h1>
     <ul class="<?= count($names) > 3 ? 'more-names' : 'some-names' ?>">
