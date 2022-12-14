@@ -4,7 +4,7 @@
 <head>
 	<style>
 		h1 {
-			color: red;
+			color: green;
 		}
 	</style>
 </head>
@@ -20,7 +20,7 @@
 			echo "another text added";
 			?>
 			    <br><br>
-				<h1>This is another example</h1>
+				<h1>
         <?php
         echo 'Explore, learn and grow.'
         ?>
