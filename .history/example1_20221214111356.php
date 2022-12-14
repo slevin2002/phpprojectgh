@@ -6,7 +6,7 @@
 		h1 {
 			color: blue;
 		}
-		h2 {
+		h1 {
 			color: red;
 		}
 	</style>
@@ -16,18 +16,18 @@
 	<center>
 		<h1>Welcome To GFG</h1>
 
-		<h3>
+		<h2>
 			<?php
 			echo "This is PHP code inside html<br>";
 			echo "added new text<br>";
 			echo "another text added";
 			?>
 			    <br><br>
-				<h2>This is another example</h2>
+				<h1>This is another example</h1>
         <?php
         echo 'Explore, learn and grow.'
         ?>
-		</h3>
+		</h2>
 	</center>
 </body>
 

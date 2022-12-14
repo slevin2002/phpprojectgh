@@ -27,7 +27,7 @@
         <?php
         echo 'Explore, learn and grow.'
         ?>
-		</h3>
+		</h2>
 	</center>
 </body>
 

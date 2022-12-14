@@ -16,7 +16,7 @@
 	<center>
 		<h1>Welcome To GFG</h1>
 
-		<h3>
+		<h2>
 			<?php
 			echo "This is PHP code inside html<br>";
 			echo "added new text<br>";
@@ -27,7 +27,7 @@
         <?php
         echo 'Explore, learn and grow.'
         ?>
-		</h3>
+		</h2>
 	</center>
 </body>
 
